@@ -178,16 +178,16 @@
                 <div class="col-md-6 order-1">
                     <form action="" method="post" style="transform: translateY(-10px);">
                         <div class="mb-3">
-                            <label for="exampleFormControlInput1" class="form-label">Your name</label>
-                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                            <label for="name" class="form-label">Your name</label>
+                            <input type="email" class="form-control" id="name">
                         </div>
                         <div class="mb-3">
-                            <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                            <label for="email" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="email">
                         </div>
                         <div class="mb-3">
-                            <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+                            <label for="message" class="form-label">Message</label>
+                            <textarea class="form-control" id="message" rows="6"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary" style="width: 100% !important;">Submit</button>
                     </form>
